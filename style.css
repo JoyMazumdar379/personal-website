@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.pink-highlight{
+    color: #d90b64;
+}
+.text{
+    text-align: justify;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, #ed5fad, #e30981);
+    color: white;
+    border-radius: 4%;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+.half-width img{
+    width: 100%;
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.center{
+    text-align: center;
+}
+.full-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+.full-width img{
+    width: 100%;
+}
+.client{
+    padding-bottom: 150px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: dimgray;
+}
+.lorem{
+    text-align: center;
+    color: black;
+}
+.middel{
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(45deg, #ed5fad, #e30981);
+    padding: 10px 20px;
+    border-radius: 5%;
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
