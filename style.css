@@ -42,14 +42,17 @@ section{
 .header-bg{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 .biography-bg{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 .latest-work{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 .center{
     text-align: center;
@@ -87,6 +90,8 @@ h4{
 }
 .footer-bg{
     background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 footer p{
     text-align: center;
